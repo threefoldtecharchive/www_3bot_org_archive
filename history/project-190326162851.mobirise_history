@@ -37,9 +37,7 @@
     "сanonical-url": "",
     "uniqCompNum": 8,
     "versionPublish": "4.9.5",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///Users/adnanfatayerji/Desktop/Websites/www_3bot_org"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {

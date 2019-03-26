@@ -1382,17 +1382,6 @@ body {
     flex: auto!important;
   }
 }
-.jq-selectbox li:hover,
-.jq-selectbox li.selected {
-  background-color: #149dcc;
-  color: #ffffff;
-}
-.jq-selectbox .jq-selectbox__trigger-arrow {
-  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
-}
-.jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #149dcc;
-}
 .cid-rkA3Yk99vH .navbar {
   background: #ffffff;
   transition: none;

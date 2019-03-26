@@ -36,10 +36,8 @@
     "noImageResize": "",
     "сanonical-url": "",
     "uniqCompNum": 8,
-    "versionPublish": "4.9.5",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///Users/adnanfatayerji/Desktop/Websites/www_3bot_org"
+    "versionPublish": "4.9.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
