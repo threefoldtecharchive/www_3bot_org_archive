@@ -1,14 +1,14 @@
-:2045 {
+:80 {
     bind 0.0.0.0
     gzip
     root /opt/www_3bot_org/
-
+    log stdout
     git {
         repo https://github.com/threefoldtech/www_3bot_org.git
         branch master
         hook /webhook "test9278"
         hook_type generic
-        key /opt/www_3bot_org/id_rsa
+        key /root/.ssh/id_rsa
         path /opt/www_3bot_org/
     }
 }
