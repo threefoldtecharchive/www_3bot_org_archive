@@ -5,7 +5,7 @@
     
     git {
         repo https://github.com/threefoldtech/www_3bot_org
-        branch production
+        branch master
         hook /webhook "zU3687$aJEb6"
         key ~/.ssh/id_rsa
         path . 
