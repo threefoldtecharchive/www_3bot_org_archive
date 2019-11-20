@@ -1,0 +1,77 @@
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/200italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/300italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/600italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Titillium Web';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/sacha/Documents/GitHub/www_3bot_org//fonts/Titillium Web/700italic.ttf') format('truetype');
+}
