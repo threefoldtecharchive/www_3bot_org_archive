@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "No Name",
-    "currentPage": "why.html",
+    "currentPage": "vision.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -841,7 +841,7 @@
                 "text": "circles empower our digital lives",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"circles.html\" data-toolbar=\"-mbrBtnMove\">learn more about circles</a>",
                 "textTitle": "you. we. world.",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/etty-fidele-k-xxdh4lnjm-unsplash-2000x1333.jpg",
@@ -861,11 +861,11 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"circles.html\" data-toolbar=\"-mbrBtnMove\">learn more about circles</a>",
                 "overlayColor": "#232323",
                 "textTitle": "you",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/jed-villejo-becc0nyip2g-unsplash-2000x1581.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -880,11 +880,11 @@
                 "text": "A new approach to collaboration &amp; inclusiveness. Create your own communities (circles) of family, friends, colleagues, and more. Design your circles as you want.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"circles.html\" data-toolbar=\"-mbrBtnMove\">learn more about circles</a>",
                 "textTitle": "we",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/noah-buscher-x8zstuks2pm-unsplash-2000x1145.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -900,7 +900,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"circles.html\" data-toolbar=\"-mbrBtnMove\">learn more about circles</a>",
                 "overlayColor": "#232323",
                 "textTitle": "world",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.5"
               }
             ]
           }
@@ -1858,7 +1858,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sharon-pittaway-imdsjoiftzo-unsplash-2000x2000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1873,7 +1873,7 @@
                 "text": "Our digital lives are scattered across a range of applications and services. Don't you think it's weird to be exposed to countless apps on our devices every day – apps that work in silos, complicating our lives, rather than in conjunction? 3Bot wll become everything you need, all in one place.<br><br>Scroll to learn more.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
                 "textTitle": "all-in-one access",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/kimson-doan-azmmuy2ql6a-unsplash-2000x1330.jpg",
@@ -1892,7 +1892,7 @@
                 "text": "Messaging. Email. Video conferencing. Disjointed communication applications. The tools you know and use on a daily basis – but with 3Bot, you're one login away as they all exist in the same location, simplifying your experience. With 3Bot, communication is peer-to-peer, the way it happens in our natural experiences.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
                 "textTitle": "communication tools",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/edu-lauton-tyq-0lpp6e4-unsplash-2000x1360.jpg",
@@ -1911,7 +1911,7 @@
                 "text": "Knowledge is power. 3Bot will give you access to complementary education tools and services, created to provide people with verifiable and purposeful information. Say goodbye to fake news and articles. Enter a conscious digital world that wants the best information for its people.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "information",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dmitry-dreyer-ghho4fe4ga0-unsplash-2000x1333.jpg",
@@ -1930,7 +1930,7 @@
                 "text": "Access a digital economy where direct and fair value exchange is enabled and ensured. Tokens are supported by real value – Internet capacity, coffee, an hour of work, or a square meter of rainforest land (for preservation). &nbsp;And people have access to secured personal wallets to store and exchange instantaneously.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
                 "textTitle": "complementary banking",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/nasa-yj1m5rickk4-unsplash-2000x2000.jpg",
@@ -1949,7 +1949,7 @@
                 "text": "Say goodbye to surfing the web with antivirus, firewall, or VPNs – you don't need these anymore with 3Bot. Just open your private browser and you're two clicks away from all the information in the world, no matter where you are in the world. A browser that does not discriminate you by region.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
                 "textTitle": "virtual browser",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/timo-volz-6vtmh3ts8iq-unsplash-2000x1334.jpg",
@@ -1968,11 +1968,11 @@
                 "text": "Our digital lives are scattered across a range of applications and services with varying levels of security and data privacy. No need for this anymore. 3Bot finds ways to store your files efficiently on the edge, meaning more security, speed, and sustainability, at a lower cost for you.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
                 "textTitle": "file manager&nbsp;",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/max-felner-yrcyucjmyo-unsplash-2000x1373.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1987,7 +1987,7 @@
                 "text": "Any application or service you can think of can exist within 3Bot. An extensive, integrated SDK means that 3Bot can grow with the help of developers. We invite you to participate &amp; expand the possibilities of 3Bot. So, let's dream &amp; create solutions to improve the lives of people around the world.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
                 "textTitle": "imagine...",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               }
             ]
           }
@@ -2048,7 +2048,7 @@
             }
           },
           "_name": "info3",
-          "_customHTML": "<section class=\"mbr-section info3\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subttle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/calvin-chou-tdqmmumxwyi-unsplash-2000x1333.jpeg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#fea771\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"media-container-column title col-12 col-md-10\">\n                <h2 mbr-if=\"showTitle\" class=\"align-left mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\"><span style=\"font-weight: normal;\">get your 3Bot now</span></h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-left mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">Get into the driver's seat and take control of your digital life.</h3>\n                <p class=\"mbr-text align-left mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline></p>\n                <div class=\"mbr-section-btn align-left py-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-white-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">connect to your 3bot: coming soon</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section info3\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subttle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/calvin-chou-tdqmmumxwyi-unsplash-2000x1333.jpeg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#fea771\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"media-container-column title col-12 col-md-10\">\n                <h2 mbr-if=\"showTitle\" class=\"align-left mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\"><span style=\"font-weight: normal;\">get your 3Bot now</span></h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-left mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">Get into the driver's seat and take control of your digital life.</h3>\n                <p class=\"mbr-text align-left mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline></p>\n                <div class=\"mbr-section-btn align-left py-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-white-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">connect to your 3bot: coming soon</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rIbnuVhcEv",
           "_anchor": "info3-24",
           "_protectedParams": [],
@@ -3300,7 +3300,7 @@
                 "text": "We naturally organise our lives into circles. We have groups of friends, we have groups of colleagues – and sometimes we have groups of friends who happen to be colleagues as well. With 3Bot, the same becomes possible but in a digital sense. Being at the center, you are able to reorganise your boundaries relentlessly.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "circles unlimited&nbsp;",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/alexis-brown-xv7k95vofa-unsplash-2000x1333.jpg",
@@ -3319,10 +3319,10 @@
                 "text": "Circles makes it easier than ever before to connect, organise, and exchange with your friends. With circles, it's time to create new memories together. With busy schedules, it can be difficult to get a group together IRL. Let your 3Bot reach out to your friends' 3Bots to figure out the logistics (who, when, where) and you can focus on the fun part. :)",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "get cosy with your friends&nbsp;",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/todd-ruth-kwxim9j-gne-unsplash-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blake-barlow-ihp1semn92i-unsplash-2000x1336.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -3335,14 +3335,14 @@
                 "title": "find comfort with your family",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Stay in touch with your loved ones by creating your circle and be as crazy as you are together in reality. With circles, no one is watching you anymore, so you can break free just like at home.",
+                "text": "Stay in touch with your loved ones by creating your family circle and stay together in reality. With circles, no one is watching you anymore, so you can break free just like at home.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
                 "textTitle": "find comfort with your family",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/brooke-cagle-g1kr4ozfoac-unsplash-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -3357,11 +3357,11 @@
                 "text": "Your work inbox can be a noisy place. How often are we cc'd on emails we don't belong on? Define general and specific work-related circles to ensure the right information is shared with only the relevant people.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "connect with your colleagues",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/jakob-owens-cl1m55gcwxe-unsplash-2000x1333.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/samantha-gades-fihoznwfcvs-unsplash-2000x1335.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -3376,7 +3376,7 @@
                 "text": "It's alway great to meet new people. We enjoy having fun, sharing intimate stories, and learning from each other. And sometimes we move on, but some stay friends. Put yourself out there. Whether by age or interest, it's never been easier to meet new people with circles.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "discover people around you",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               }
             ]
           }
@@ -3408,7 +3408,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">learn more</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">join now</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">learn more</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">join now: coming soon</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rIbTbgM8jC",
           "_anchor": "content8-2d",
           "_protectedParams": [],
@@ -3879,7 +3879,7 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/hasan-almasi-owqlxcvovxi-unsplash-2000x1333.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">we claim change</span></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">our world is at stake<br></h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Click any text to edit or style it. Select text to insert a link. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add themes.\n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/hasan-almasi-owqlxcvovxi-unsplash-2000x1333.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">we claim change</span></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">our world is at stake<br></h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Click any text to edit or style it. Select text to insert a link. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add themes.\n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "rIaXtT9Tgj",
           "_anchor": "header2-1t",
           "_protectedParams": [],
@@ -4223,7 +4223,7 @@
                 "contentAlign": "center",
                 "text": "Imagine a digital world accessible to everyone, everywhere. In June 2016, the United Nations declared internet access as a basic human right. Today, about half of the planet is still not connected. Our ecosystem made it a mission to connect everyone, responsibly nad respectfully. 3Bot will be accessible at a cost of $1, making it 20x cheaper than all contemporary alternatives.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/christopher-alvarenga-ex-pbubfne4-unsplash-2000x1333.jpg",
@@ -4243,11 +4243,11 @@
                 "contentAlign": "left",
                 "text": "\"I want you to act as if our house is on fire, because it is.\" said Greta Thunberg at the World Economic Forum. Our planet is dying, climates are changing, species dying, our lives polluted and the future of our children at stake. We have to shange the way we approach our lives. 3Bot makes use of the new internet and through it's ecosystem puts people and nature first. By supporting us, you're supporting a movement to heal the planet. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/isaac-viglione-gthfdnqgfmw-unsplash-1776x1184.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -4263,11 +4263,11 @@
                 "contentAlign": "right",
                 "text": "Imagine a digital world that protects us instead of exploiting us. Today our digital presence is nothing close to private. Big multinationals collect our data everyday from our phones, sim cards, application use and web browsing. We became modern slaves of a huge industry - the data industry. With 3Bot, your data is owned by you, and no one else, not even us.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sasha-freemind-frq5q6ne9k4-unsplash-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -4283,7 +4283,7 @@
                 "contentAlign": "right",
                 "text": "Imagine a digital world where all citizens of this planet are able to maintain their privacy and freedom. In today's architecture, people are being exploited for their data by large multinationals. Did you know an individual's data is worth between $1000 - $20,000 per year? Imagine a world where you owned your data, and where you had the choice. This world is now a reality with 3Bot.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               }
             ]
           }
@@ -5257,7 +5257,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/avel-chuklanov-9cx4-qowglc-unsplash-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -5272,7 +5272,7 @@
                 "text": "Whether it be refugees or developing and third world country inhabitants around the world, some people are found without identities. This limits their growth tremendously. We want to provide identities and access to a responsible global network of information and value to empower a sustainable future for all.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "providing identity solutions&nbsp;",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/rina-miele-zu9r0-7cd3e-unsplash-2000x1333.jpg",
@@ -5291,7 +5291,7 @@
                 "text": "Todays economies are successful when depleting our planets resources. This is a flawed approach to value creation. 3Bot will connect you to new sustainable digital economies that help drive success through sustainable initiatives and value exchanges.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "access to sustainable digital economies&nbsp;",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/warren-wong-j33qmcvr02a-unsplash-2000x1333.jpg",
@@ -5310,11 +5310,11 @@
                 "text": "Today we depend on too many intermediaries, that handle logistics and distribution between parties. However, with 3bot, you would be able to get in touch directly with your consumers or producers, avoiding those extra cost and marketing.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "go straight to the source",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/robert-collins-tvc5imo5pxk-unsplash-2000x1384.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -5329,7 +5329,7 @@
                 "text": "Today's approach to the digital world puts our children in danger. They are subject to many possible harms on the web when subject to the wrong content, and are also at risk of cyberbullying and . We want to create a conscious approach to this new digital world and provide with the best support for their personal growth.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "textTitle": "a consious world for our children",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.6"
               }
             ]
           }
