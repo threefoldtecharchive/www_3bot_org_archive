@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3Bot",
-    "currentPage": "our-circle.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,7 +13,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": null,
+        "display1Font": "Special Elite",
         "display1Size": "4",
         "display2Font": "Roboto Condensed",
         "display2Size": 3,
