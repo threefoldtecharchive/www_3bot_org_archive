@@ -11,7 +11,7 @@ class Package(j.baseclasses.threebot_package):
     def start(self):
         server = self.openresty
         server.configure()
-        website_3bot = server.websites.get("www_3bot_org")
+        website_3bot = server.websites.get("self.name")
         website_3bot.domain = self.DOMAIN
         website_3bot.port = 80
         website_3bot.ssl = False
@@ -21,8 +21,8 @@ class Package(j.baseclasses.threebot_package):
             locations = website.locations.get(f"threebot_locations_{website.name}")
 
             website_location = locations.locations_static.new()
-            website_location.name = "3botwebsite"
-            website_location.path_url = "/" if website.domain == self.DOMAIN else "/3bot_org"
+            website_location.name = f"{self.name}_location"
+            website_location.path_url = "/" if website.domain == self.DOMAIN else f"/{self.name}"
             fullpath = j.sal.fs.joinPaths(self.package_root, "html/")
             website_location.path_location = fullpath
 
