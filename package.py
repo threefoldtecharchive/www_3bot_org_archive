@@ -18,7 +18,7 @@ class Package(j.baseclasses.threebot_package):
 
         websites = [server.get_from_port(80), server.get_from_port(443), website_3bot]
         for website in websites:
-            locations = website.locations.get(f"3bot_locations_{website.name}")
+            locations = website.locations.get(f"threebot_locations_{website.name}")
 
             website_location = locations.locations_static.new()
             website_location.name = "3botwebsite"
