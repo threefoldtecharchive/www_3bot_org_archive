@@ -8,10 +8,11 @@ class Package(j.baseclasses.threebot_package):
     JSX> cl.actors.package_manager.package_add(git_url="https://github.com/threefoldtech/www_3bot_org/tree/3bot")
     """
     DOMAIN = "3bot.org"
+    name = "www_3bot_org"
     def start(self):
         server = self.openresty
         server.configure()
-        website_3bot = server.websites.get("self.name")
+        website_3bot = server.websites.get(self.name)
         website_3bot.domain = self.DOMAIN
         website_3bot.port = 80
         website_3bot.ssl = False
